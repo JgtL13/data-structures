@@ -1,3 +1,5 @@
+#A program that calculates weight of molecular that consists of elements C, H and O.
+
 #include <iostream>
 #include <cstring>
 using namespace std;
