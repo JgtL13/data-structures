@@ -1,1 +1,17 @@
+A program that calculates weight of molecular that consists of elements C, H and O.
 
+Sample input:
+C6H12O6
+(CH2O)6
+CH3COOH
+CH3(CH2)2COOH
+((CH)2
+(OH2H)(C(H))O)3
+0
+
+Sample output:
+180
+180
+60
+88
+222
